@@ -276,6 +276,9 @@ exit
 
 ---
 
+<img width="975" height="492" alt="image" src="https://github.com/user-attachments/assets/6aa8b28a-805a-44b9-991a-9c7b3fe6ae3f" />
+
+
 ## Task 9 — Manual Incident Response
 
 Identify the attacker's source IP from the IDS Dashboard (typically `192.168.10.10`), then block it with a high-priority deny rule:
