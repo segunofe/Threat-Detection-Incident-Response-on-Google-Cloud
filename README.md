@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lab walks through deploying **Cloud Intrusion Detection System (Cloud IDS)** — a next-generation threat detection service for intrusions, malware, spyware, and command-and-control attacks. You simulate multiple attacks and review threat details in the Google Cloud console.
+This lab walks through deploying **Cloud Intrusion Detection System (Cloud IDS)** — a next-generation threat detection service for intrusions, malware, spyware, and command-and-control attacks. I simulated multiple attacks, reviewed them in details and blocked them by creating high-priority (1) firewall rule against the source IP (attacker's VM) using gcloud commands.
 
 ---
 
